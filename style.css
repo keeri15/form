@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://www.tata.com/content/dam/tata/images/careers/desktop/tgip_overview2_banner_desktop_1920x1080.jpg);
+     min-height: 450px;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+}
